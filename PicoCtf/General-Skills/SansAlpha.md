@@ -42,4 +42,7 @@
 - https://asareynolds.com/posts/writeups/picoctf2024/sansalpha/
 - https://medium.com/%40niceselol/picoctf-2024-sansalpha-86bbdb58bde6
 - https://mqcybersec.org/writeups/picoctf-sansalpha/
+- https://www.youtube.com/watch?v=3s5gM-vA1x4
+- https://www.youtube.com/watch?v=fyRw0JmmggY
+- https://www.youtube.com/watch?v=ITTdaIh5mjA
 - 
